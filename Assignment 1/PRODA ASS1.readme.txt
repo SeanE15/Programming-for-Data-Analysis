@@ -1,3 +1,0 @@
-https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic - Top Vid Games 1995-2021 Metacritic (B)
-
-https://www.kaggle.com/datasets/ww1234/ps4-games - PS4 Games (A)
