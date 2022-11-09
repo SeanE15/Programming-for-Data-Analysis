@@ -10,3 +10,4 @@ https://www.statology.org/r-read-csv-from-url/
 
 https://towardsdatascience.com/dont-download-read-datasets-with-url-in-python-8245a5eaa919 
 
+https://anvilproject.org/guides/content/creating-links
