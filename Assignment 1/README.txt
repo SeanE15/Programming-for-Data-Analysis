@@ -17,3 +17,5 @@ https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct
 https://www.reddit.com/r/learnpython/comments/jxzy7p/how_do_i_stop_getting_this_error_valueerror_label/
 
 https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+
+https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/
