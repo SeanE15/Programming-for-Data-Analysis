@@ -19,3 +19,9 @@ https://www.reddit.com/r/learnpython/comments/jxzy7p/how_do_i_stop_getting_this_
 https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
 
 https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/
+
+https://www.geeksforgeeks.org/donut-chart-using-matplotlib-in-python/
+
+https://stackoverflow.com/questions/49991633/valueerror-label-must-be-of-length-x-using-matplotlib
+
+https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f
