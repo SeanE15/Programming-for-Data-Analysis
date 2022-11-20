@@ -25,3 +25,6 @@ https://www.geeksforgeeks.org/donut-chart-using-matplotlib-in-python/
 https://stackoverflow.com/questions/49991633/valueerror-label-must-be-of-length-x-using-matplotlib
 
 https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f
+
+https://stackoverflow.com/questions/42528921/how-to-prevent-overlapping-x-axis-labels-in-sns-countplot
+
