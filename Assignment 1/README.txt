@@ -30,3 +30,11 @@ https://stackoverflow.com/questions/42528921/how-to-prevent-overlapping-x-axis-l
 
 https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70
 
+https://www.w3schools.com/python/python_ml_linear_regression.asp 
+
+https://learnr.wordpress.com/2009/03/17/ggplot2-barplots/ 
+
+https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2 
+
+https://matplotlib.org/stable/gallery/style_sheets/ggplot.html
+
