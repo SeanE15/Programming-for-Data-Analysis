@@ -38,3 +38,4 @@ https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-
 
 https://matplotlib.org/stable/gallery/style_sheets/ggplot.html
 
+https://www.activestate.com/resources/quick-reads/how-to-run-linear-regressions-in-python-scikit-learn/
