@@ -38,4 +38,15 @@ https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-
 
 https://matplotlib.org/stable/gallery/style_sheets/ggplot.html
 
+https://www.google.com/search?q=do+I+need+to+install+scikit+learn+on+visual+studios+for+it+to+work+on+jupyter+notebook%3F&sa=X&ved=2ahUKEwi1w8ythcr7AhXMglwKHdK-AUUQ7xYoAHoECBIQAQ&biw=1920&bih=929&dpr=1#kpvalbx=_KRSBY5qeApXMgQa_0aDwAQ_30
+
 https://www.activestate.com/resources/quick-reads/how-to-run-linear-regressions-in-python-scikit-learn/
+
+https://www.statology.org/valueerror-unknown-label-type-continuous/
+
+https://www.positioniseverything.net/valueerror-input-contains-nan-infinity-or-a-value-too-large-for-dtypefloat64/#:~:text=The%20cause%20of%20the%20valueerror,any%20mistake%20in%20the%20data.
+
+https://learn.theprogrammingfoundation.org/getting_started/intro_data_science/module2/?gclid=EAIaIQobChMIwMyJkJLK-wIVlIjVCh3RQAHFEAAYASAAEgI2bPD_BwE
+
+https://stackoverflow.com/questions/46113732/modulenotfounderror-no-module-named-sklearn
+
