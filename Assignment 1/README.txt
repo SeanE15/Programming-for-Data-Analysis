@@ -50,3 +50,9 @@ https://learn.theprogrammingfoundation.org/getting_started/intro_data_science/mo
 
 https://stackoverflow.com/questions/46113732/modulenotfounderror-no-module-named-sklearn
 
+https://www.youtube.com/watch?v=vt4WJozY48A
+
+https://stackoverflow.com/questions/43222882/singleton-array-arrayfunction-train-at-0x7f3a311320d0-dtype-object-cannot-b 
+
+https://datascience.stackexchange.com/questions/20199/train-test-split-error-found-input-variables-with-inconsistent-numbers-of-sam
+
