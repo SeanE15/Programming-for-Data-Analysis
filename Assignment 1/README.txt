@@ -1,58 +1,33 @@
-https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic - Top Vid Games 1995-2021 Metacritic (B)
+# Programming-for-Data-Analysis
+## Author: Sean Elliott
+## Due Date: last commit on or before 04/12/2022
+----
 
-https://www.kaggle.com/datasets/ww1234/ps4-games - PS4 Games (A)
+# Introduction:
 
-https://www.kaggle.com/code/mohammedouahman/web-scraping-for-data-sientists
+### Hello, and welcome to my github repository. This repo has been created in order to satify the work required to complete the Programming for Data Analysis course - which is a key part to my completion of the HDip in Computer Science with Data Analytics at the Atlantic Technological University. This repository contains two main bodies of work - the 'Assignment 1' folder that I have compiled throughout the course, which is my dissection of global Video Game sales.
+----
 
-https://stackoverflow.com/questions/6299220/access-a-url-and-read-data-with-r
+# System Requirements:
 
-https://www.statology.org/r-read-csv-from-url/ 
+### To modify or run the notebooks on a local machine requires the latest version of Python. Anaconda is an easy to use version available at the following URL's for Windows, Mac and Linux. Alternatively the static and interactive web based versions of the notebooks are available via the links below.
 
-https://towardsdatascience.com/dont-download-read-datasets-with-url-in-python-8245a5eaa919 
+----
 
-https://anvilproject.org/guides/content/creating-links
+# Jupyter Notebooks
 
-https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct
+## To run the notebooks on a local machine following the installation of python you should do the following:
 
-https://www.reddit.com/r/learnpython/comments/jxzy7p/how_do_i_stop_getting_this_error_valueerror_label/
+### [1] Open the command line on your machine. I recommend CMDer if using Windows, but the native terminal works fine on Linux/Mac.
 
-https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+### [2] Navigate to the appropriate folder that contains the notebook that is linked with your github account.
 
-https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/
+### [3] type "Jupyter notebook" and press "Enter"
 
-https://www.geeksforgeeks.org/donut-chart-using-matplotlib-in-python/
+### [4] Your browser should automatically start and open up in the jupyter notebook program, if it doesn't a URL link should displace on the cmder screen. 
 
-https://stackoverflow.com/questions/49991633/valueerror-label-must-be-of-length-x-using-matplotlib
+----
 
-https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f
+# References:
 
-https://stackoverflow.com/questions/42528921/how-to-prevent-overlapping-x-axis-labels-in-sns-countplot
-
-https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70
-
-https://www.w3schools.com/python/python_ml_linear_regression.asp 
-
-https://learnr.wordpress.com/2009/03/17/ggplot2-barplots/ 
-
-https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2 
-
-https://matplotlib.org/stable/gallery/style_sheets/ggplot.html
-
-https://www.google.com/search?q=do+I+need+to+install+scikit+learn+on+visual+studios+for+it+to+work+on+jupyter+notebook%3F&sa=X&ved=2ahUKEwi1w8ythcr7AhXMglwKHdK-AUUQ7xYoAHoECBIQAQ&biw=1920&bih=929&dpr=1#kpvalbx=_KRSBY5qeApXMgQa_0aDwAQ_30
-
-https://www.activestate.com/resources/quick-reads/how-to-run-linear-regressions-in-python-scikit-learn/
-
-https://www.statology.org/valueerror-unknown-label-type-continuous/
-
-https://www.positioniseverything.net/valueerror-input-contains-nan-infinity-or-a-value-too-large-for-dtypefloat64/#:~:text=The%20cause%20of%20the%20valueerror,any%20mistake%20in%20the%20data.
-
-https://learn.theprogrammingfoundation.org/getting_started/intro_data_science/module2/?gclid=EAIaIQobChMIwMyJkJLK-wIVlIjVCh3RQAHFEAAYASAAEgI2bPD_BwE
-
-https://stackoverflow.com/questions/46113732/modulenotfounderror-no-module-named-sklearn
-
-https://www.youtube.com/watch?v=vt4WJozY48A
-
-https://stackoverflow.com/questions/43222882/singleton-array-arrayfunction-train-at-0x7f3a311320d0-dtype-object-cannot-b 
-
-https://datascience.stackexchange.com/questions/20199/train-test-split-error-found-input-variables-with-inconsistent-numbers-of-sam
-
+### [1] https://jackmckew.dev/make-a-readme-documentation-with-jupyter-notebooks.html
