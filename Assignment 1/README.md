@@ -4,7 +4,7 @@
 
 <h3 align="center">Introduction:</h3> 
 
-Hello, and welcome to my github repository. This repo has been created in order to satify the work required to complete the Programming for Data Analysis course - which is a key part to my completion of the HDip in Computer Science with Data Analytics at the Atlantic Technological University. This repository contains two main bodies of work - the 'Assignment 1' folder that I have compiled throughout the course, which is my dissection of global Video game sales.
+Hello, and welcome to my github repository. This repo has been created in order to satify the work required to complete the Programming for Data Analysis course - which is a key part to my completion of the HDip in Computer Science with Data Analytics at the Atlantic Technological University. This repository contains the main bodies of work - the 'Assignment 1' folder along with the dataset folder and this README that I have compiled throughout the course, The Jupyter Notebook is my dissection of the global Video game sales dataset.
 
 ----
 
